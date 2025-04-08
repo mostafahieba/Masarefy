@@ -1,0 +1,15 @@
+part of 'home_cubit.dart';
+
+@immutable
+sealed class HomeState {
+  double total;
+  List<TransactionModel> list;
+  HomeState({required this.total, required this.list});
+}
+
+final class HomeInitial extends HomeState {
+  HomeInitial() : super(total: 0, list: []);
+}
+final class HomeUpdate extends HomeState {
+  HomeUpdate(super.total, super.list);
+}

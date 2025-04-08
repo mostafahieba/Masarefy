@@ -1,0 +1,18 @@
+{
+  "Enter Your Name": "ادخل الاسم",
+  "Email Address": "البريد الالكتروني",
+  "Enter Your Password": "ادخل كلمة المرور",
+  "password": "كلمة المرور",
+  "login": "تسجيل الدخول",
+  "register": "إنشاء حساب",
+  "email": "البريد الإلكتروني",
+  "home": "مصرفي",
+  "switch_theme": "تبديل السمة",
+  "my_balance_today": "رصيدي اليوم",
+  "add": "إضافة",
+  "title": "العنوان",
+  "amount": "المبلغ",
+  "source": "المصدر",
+  "add_new_transaction": "إضافة معاملة جديدة",
+  "masrafy_app": "تطبيق مصرفي هو تتبع أموالك"
+}
