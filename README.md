@@ -10,3 +10,4 @@ Static List for Quick Access: A static list to display your transactions, catego
 
 BottomSheet for Input: Easily input new financial data using the BottomSheet widget, which provides a smooth and efficient way to add transactions without navigating away from the current screen.
 
+![Screenshot 2025-04-09 201237](https://github.com/user-attachments/assets/5f9760b3-acfb-446a-8a16-1ff1d54e9f18)
