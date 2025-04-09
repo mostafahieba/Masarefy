@@ -1,16 +1,12 @@
-# frist_projact
+# Masrify - Money Tracker App
+Masrify is a simple and efficient money tracking app built with Flutter. The app helps you easily monitor and manage your finances by tracking your income and expenses. With its clean and user-friendly interface, Masrify makes it easy to stay on top of your financial health.
 
-A new Flutter project.
+# Features
+Track Your Money: Keep track of your income and expenses in an organized manner. Track your financial transactions and get insights into your spending habits.
 
-## Getting Started
+Cubit for State Management: Masrify uses Cubit, a lightweight state management solution, to handle the state of your app in a clean and efficient way, ensuring smooth performance throughout.
 
-This project is a starting point for a Flutter application.
+Static List for Quick Access: A static list to display your transactions, categories, and balances, allowing you to get an overview of your financial records at a glance.
 
-A few resources to get you started if this is your first Flutter project:
+BottomSheet for Input: Easily input new financial data using the BottomSheet widget, which provides a smooth and efficient way to add transactions without navigating away from the current screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
